@@ -4,6 +4,7 @@
   width: 100%;
   height: 90%;
   position: relative;
+  overflow: hidden;
 }
 
 #banner::after {
@@ -15,7 +16,6 @@
   border-color: transparent transparent #ffffff transparent;
   position: absolute;
   bottom: 0;
-  overflow: hidden;
 }
 
 #banner h1 {
